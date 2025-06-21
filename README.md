@@ -22,7 +22,7 @@ Elle collecte des données de capteurs et permet de contrôler l’arrosage à d
 
 ### 2. Cloner le projet et installer les dépendances
 ```bash
-git clone https://github.com/chichi-kamal/SmartIrrigationApp
+git clone https://github.com/chichi-kamal/SmartIrrigationApp.git
 cd smartirrigation
 flutter pub get
 
